@@ -1,0 +1,6 @@
+[package]
+name = "algorithm-play"
+version = "0.1.0"
+authors = ["Matthew Delaney <matthew@delaney.email>"]
+
+[dependencies]
